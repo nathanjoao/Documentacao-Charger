@@ -1,5 +1,7 @@
 # Charger
 
+![Image](https://github.com/user-attachments/assets/1287f52b-9493-44b3-8329-fef4f58f101f)
+
 ## Índice
 
 - [Quem Somos?](#quem-somos)
